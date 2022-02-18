@@ -1,0 +1,11 @@
+C:\Users\angel\OneDrive\Desktop\Ejercicio2(Marilyn Garcia)\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe.config
+C:\Users\angel\OneDrive\Desktop\Ejercicio2(Marilyn Garcia)\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe
+C:\Users\angel\OneDrive\Desktop\Ejercicio2(Marilyn Garcia)\ejercicio2\ejercicio2\bin\Debug\ejercicio2.pdb
+C:\Users\angel\OneDrive\Desktop\Ejercicio2(Marilyn Garcia)\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\Ejercicio2(Marilyn Garcia)\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\angel\OneDrive\Desktop\Ejercicio2(Marilyn Garcia)\ejercicio2\ejercicio2\obj\Debug\ejercicio2.Form1.resources
+C:\Users\angel\OneDrive\Desktop\Ejercicio2(Marilyn Garcia)\ejercicio2\ejercicio2\obj\Debug\ejercicio2.Properties.Resources.resources
+C:\Users\angel\OneDrive\Desktop\Ejercicio2(Marilyn Garcia)\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csproj.GenerateResource.cache
+C:\Users\angel\OneDrive\Desktop\Ejercicio2(Marilyn Garcia)\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\Ejercicio2(Marilyn Garcia)\ejercicio2\ejercicio2\obj\Debug\ejercicio2.exe
+C:\Users\angel\OneDrive\Desktop\Ejercicio2(Marilyn Garcia)\ejercicio2\ejercicio2\obj\Debug\ejercicio2.pdb
